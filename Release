@@ -1,0 +1,8 @@
+Origin: apollo
+Label: Apollo software
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Apollo is a high-quality software repo created by Apollo jailbreak.
